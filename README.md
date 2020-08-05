@@ -3,7 +3,6 @@
  
                 #Login Page
 
-<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
 
 
                        #Home

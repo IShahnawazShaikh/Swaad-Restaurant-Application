@@ -3,7 +3,8 @@
  
                 #Login Page
 
-![1](https://user-images.githubusercontent.com/32239343/89369691-833ae880-d6fc-11ea-8dd4-4944efbea549.png =250x250)
+<img src="![1](https://user-images.githubusercontent.com/32239343/89369691-833ae880-d6fc-11ea-8dd4-4944efbea549.png)" alt="alt text" width="20" height="20">
+
 
                        #Home
                        

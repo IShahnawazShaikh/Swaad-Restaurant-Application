@@ -3,7 +3,7 @@
  
                 #Login Page
 
-<img src="![1](https://user-images.githubusercontent.com/32239343/89369691-833ae880-d6fc-11ea-8dd4-4944efbea549.png)" alt="alt text" width="20" height="20">
+<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
 
 
                        #Home

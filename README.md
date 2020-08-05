@@ -3,27 +3,41 @@
  
                 #Login Page
 <p align="center">
-<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
+<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="550" />
 </p>
 
                        #Home
                        
-![2](https://user-images.githubusercontent.com/32239343/89369712-91890480-d6fc-11ea-9472-4ce8438d56c8.png)
+<p align="center">
+<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/2.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="550" />
+</p>
+
 
 
                        #search Item 
-![3](https://user-images.githubusercontent.com/32239343/89369726-98b01280-d6fc-11ea-85b3-e09e47439ac9.png)
+<p align="center">
+<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="550" />
+</p>
+
 
 
                         #Cart
                         
-![4](https://user-images.githubusercontent.com/32239343/89369740-a1a0e400-d6fc-11ea-99f9-a79212370c94.png)
+<p align="center">
+<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/4.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="550" />
+</p>
+
 
 
                        #Profile
                        
-![5](https://user-images.githubusercontent.com/32239343/89369747-a5346b00-d6fc-11ea-8f90-94d403cc8b2a.png)                       
+<p align="center">
+<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/5.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="550" />
+</p>
+                      
 
                       #ManageAddress
-                      
-![6](https://user-images.githubusercontent.com/32239343/89369750-a6659800-d6fc-11ea-804e-2140e2bca60a.png)
+ <p align="center">
+<img src="https://github.com/imshahnawazdevil/Swaad-Restaurant-Application/blob/master/Pics/6.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="550" />
+</p>
+
